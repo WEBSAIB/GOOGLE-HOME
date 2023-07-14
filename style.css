@@ -1,0 +1,258 @@
+body{
+	margin: 0;
+	font-family: arial;
+}  
+
+
+
+/*===============================================================*/
+/*---------------Header Area Starts Here------------------>>>>>>*/
+/*================================================================*/
+.header-agsfrea{
+	overflow: hidden;
+	
+}
+
+.header-container{
+	width: 98%;
+	margin: 13px 15px;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+
+.header-area .header-content{
+	float: right;
+	overflow: hidden;
+}
+.header-area .link-area{
+	float: left;
+	margin-right: 61px;
+	margin-top: 10px;
+	
+}
+
+.header-area .link-area a{
+	text-decoration: none;
+	margin-left: 10px;
+	color: #212121;
+}
+
+.header-area .link-area a:hover{
+	text-decoration: underline;
+}
+.header-area .image-area{
+	width: 25px;
+	float: left;
+	margin-left: -36px;
+	margin-top: 6px;
+}
+
+.header-area .sign-in-area{
+	float: left;
+	margin-left: 10px;
+	background: #1a73e8;
+	padding: 10px 25px;
+	border-radius: 8px;
+}
+	
+.header-area .sign-in-area a{
+	text-decoration: none;
+	color: #fff;
+}
+
+
+/*===============================================================*/
+/*---------------Header Area ends Here------------------>>>>>>*/
+/*================================================================*/
+
+
+
+/*===============================================================*/
+/*---------------main Area starts Here------------------>>>>>>*/
+/*================================================================*/
+.main-area{
+	overflow: hidden;
+}
+
+.main-area-container {
+    width: 50%;
+    height: 795px;
+    margin: auto;
+    /* border: 1px solid red; */
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.main-area .heading-area {
+	font-size: 40px;
+	text-align: center;
+	margin-top: 81px;
+}	
+
+.main-area .heading-area .letter-g{
+	color: #4285f4;
+} 
+.main-area .heading-area .letter-o{
+	color: #ea4335;
+}
+.main-area .heading-area .letter-0-two{
+	color: #fbbc05;
+}
+.main-area .heading-area .letter-i{
+	color: #34a853;
+}
+
+
+
+.w-50{
+	/*background: #27ae60;*/
+	width: 70%;
+	height: 43px;
+	margin: auto;
+	margin-top: -39px;
+	/*border: 2px solid red;*/
+}
+
+.main-area-container .w-50 input[type="search"] {
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+	width: 84%;
+	height: 37px;
+	border-radius: 20px;
+	border: 2px solid #dfe1e5;
+	/*border: 2px solid #dfe1e5;*/
+}	
+
+
+
+.w-25 {
+    width: 25%;
+    /* border: 1px solid green; */
+    margin-left: 67px;
+    margin-top: -37px;
+}
+
+
+
+.link-area-two {
+    margin-left: 190px;
+    margin-top: 66px;
+}
+
+.link-area-two a{
+	background: #ecedef;
+	padding: 8px;
+	margin-left: 5px;
+	font-size: 12px;
+	color: #4c4f52;
+	text-decoration: none;
+}
+
+.w-50 p{
+	float: left;
+	font-size: 14px;
+	font-weight: normal;
+	margin-left: 95px;
+	margin-top: 36px;
+}
+.w-50 .languaage ul li{
+	float: left;
+	list-style-type: none;
+	font-size: 11px;
+	margin-left: 10px;
+	margin-top: 20px;
+	overflow: hidden;
+	
+}	
+
+.w-50 .languaage ul li a{
+	text-decoration: none;
+	color: #190cab;
+}
+
+.w-50 .languaage ul li a:hover{
+	text-decoration: underline;
+}
+
+
+/*===============================================================*/
+/*---------------main Area ends Here------------------>>>>>>*/
+/*================================================================*/
+
+
+
+/*===============================================================*/
+/*---------------footer-Area Starts Here------------------>>>>>>*/
+/*================================================================*/
+ .footer-area{
+	overflow: hidden;
+	background: #f2f2f2;
+ }
+.footer-area .footer-content{
+	width:100%;
+}
+.footer-area .footer-content .countery p{
+	color: #6f6f6f;
+	margin: 0;
+	margin-top: 12px;
+	margin-left: 20px;
+}
+
+.footer-area .line{
+	border: 1px solid #dfe1e5;
+	margin-top: 10px;
+}
+
+.w-50-left{
+	width: 50%;
+	float: left;
+}
+
+.w-50-left ul li{
+	float: left;
+	list-style-type: none;
+}
+
+.w-50-left ul li a{
+	text-decoration: none;
+	color: #70757a;
+	font-size: 14px;
+	margin-right: 31px;
+}
+.w-50-left ul li a:hover{
+	text-decoration: underline;
+}
+
+.w-50-left .about-link{
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+.w-50-right{
+	width: 50%;
+	overflow: hidden;
+}
+
+.w-50-right ul li{
+	float: left;
+	list-style-type: none;
+}
+
+.w-50-right ul li a{
+	text-decoration: none;
+	color: #70757a;
+	font-size: 14px;
+	margin-right: 25px;
+}
+.w-50-right ul li a:hover{
+	text-decoration: underline;
+}
+
+.about-privacy {
+	float: right;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+/*===============================================================*/
+/*---------------footer-Area ends Here------------------>>>>>>*/
+/*================================================================*/
